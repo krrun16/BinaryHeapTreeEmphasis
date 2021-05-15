@@ -31,3 +31,4 @@ The user may not notice a difference between nodes with this implementation, but
     I am reading at the character level in JAWS by default, so the interaction is quite different regarding reading aloud characters. Was VoiceOver
     at the character level or word level by default? We’ll need to specify to our participants what we are looking for.
     I did not have to press Enter to move nodes into focus. Is this also how it works for VoiceOver? So apparently my issue above is NVDA specific.
+
